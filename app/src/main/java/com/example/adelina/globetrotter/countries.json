@@ -1,252 +1,2006 @@
-<countries>
-    <country countryCode="AD" countryName="Andorra" population="84000" capital="Andorra la Vella" continent="EU" languages="ca" />
-    <country countryCode="AE" countryName="United Arab Emirates" population="4975593" capital="Abu Dhabi" continent="AS" languages="ar-AE,fa,en,hi,ur" />
-    <country countryCode="AF" countryName="Afghanistan" population="29121286" capital="Kabul" continent="AS" languages="fa-AF,ps,uz-AF,tk" />
-    <country countryCode="AG" countryName="Antigua and Barbuda" population="86754" capital="St. John's" continent="NA" languages="en-AG" />
-    <country countryCode="AI" countryName="Anguilla" population="13254" capital="The Valley" continent="NA" languages="en-AI" />
-    <country countryCode="AL" countryName="Albania" population="2986952" capital="Tirana" continent="EU" languages="sq,el" />
-    <country countryCode="AM" countryName="Armenia" population="2968000" capital="Yerevan" continent="AS" languages="hy" />
-    <country countryCode="AO" countryName="Angola" population="13068161" capital="Luanda" continent="AF" languages="pt-AO" />
-    <country countryCode="AQ" countryName="Antarctica" population="0" capital="" continent="AN" languages="" />
-    <country countryCode="AR" countryName="Argentina" population="41343201" capital="Buenos Aires" continent="SA" languages="es-AR,en,it,de,fr,gn" />
-    <country countryCode="AS" countryName="American Samoa" population="57881" capital="Pago Pago" continent="OC" languages="en-AS,sm,to" />
-    <country countryCode="AT" countryName="Austria" population="8205000" capital="Vienna" continent="EU" languages="de-AT,hr,hu,sl" />
-    <country countryCode="AU" countryName="Australia" population="21515754" capital="Canberra" continent="OC" languages="en-AU" />
-    <country countryCode="AW" countryName="Aruba" population="71566" capital="Oranjestad" continent="NA" languages="nl-AW,es,en" />
-    <country countryCode="AX" countryName="Åland" population="26711" capital="Mariehamn" continent="EU" languages="sv-AX" />
-    <country countryCode="AZ" countryName="Azerbaijan" population="8303512" capital="Baku" continent="AS" languages="az,ru,hy" />
-    <country countryCode="BA" countryName="Bosnia and Herzegovina" population="4590000" capital="Sarajevo" continent="EU" languages="bs,hr-BA,sr-BA" />
-    <country countryCode="BB" countryName="Barbados" population="285653" capital="Bridgetown" continent="NA" languages="en-BB" />
-    <country countryCode="BD" countryName="Bangladesh" population="156118464" capital="Dhaka" continent="AS" languages="bn-BD,en" />
-    <country countryCode="BE" countryName="Belgium" population="10403000" capital="Brussels" continent="EU" languages="nl-BE,fr-BE,de-BE" />
-    <country countryCode="BF" countryName="Burkina Faso" population="16241811" capital="Ouagadougou" continent="AF" languages="fr-BF" />
-    <country countryCode="BG" countryName="Bulgaria" population="7148785" capital="Sofia" continent="EU" languages="bg,tr-BG,rom" />
-    <country countryCode="BH" countryName="Bahrain" population="738004" capital="Manama" continent="AS" languages="ar-BH,en,fa,ur" />
-    <country countryCode="BI" countryName="Burundi" population="9863117" capital="Bujumbura" continent="AF" languages="fr-BI,rn" />
-    <country countryCode="BJ" countryName="Benin" population="9056010" capital="Porto-Novo" continent="AF" languages="fr-BJ" />
-    <country countryCode="BL" countryName="Saint Barthélemy" population="8450" capital="Gustavia" continent="NA" languages="fr" />
-    <country countryCode="BM" countryName="Bermuda" population="65365" capital="Hamilton" continent="NA" languages="en-BM,pt" />
-    <country countryCode="BN" countryName="Brunei" population="395027" capital="Bandar Seri Begawan" continent="AS" languages="ms-BN,en-BN" />
-    <country countryCode="BO" countryName="Bolivia" population="9947418" capital="Sucre" continent="SA" languages="es-BO,qu,ay" />
-    <country countryCode="BQ" countryName="Bonaire" population="18012" capital="Kralendijk" continent="NA" languages="nl,pap,en" />
-    <country countryCode="BR" countryName="Brazil" population="201103330" capital="Brasília" continent="SA" languages="pt-BR,es,en,fr" />
-    <country countryCode="BS" countryName="Bahamas" population="301790" capital="Nassau" continent="NA" languages="en-BS" />
-    <country countryCode="BT" countryName="Bhutan" population="699847" capital="Thimphu" continent="AS" languages="dz" />
-    <country countryCode="BV" countryName="Bouvet Island" population="0" capital="" continent="AN" languages="" />
-    <country countryCode="BW" countryName="Botswana" population="2029307" capital="Gaborone" continent="AF" languages="en-BW,tn-BW" />
-    <country countryCode="BY" countryName="Belarus" population="9685000" capital="Minsk" continent="EU" languages="be,ru" />
-    <country countryCode="BZ" countryName="Belize" population="314522" capital="Belmopan" continent="NA" languages="en-BZ,es" />
-    <country countryCode="CA" countryName="Canada" population="33679000" capital="Ottawa" continent="NA" languages="en-CA,fr-CA,iu" />
-    <country countryCode="CC" countryName="Cocos [Keeling] Islands" population="628" capital="West Island" continent="AS" languages="ms-CC,en" />
-    <country countryCode="CD" countryName="Democratic Republic of the Congo" population="70916439" capital="Kinshasa" continent="AF" languages="fr-CD,ln,kg" />
-    <country countryCode="CF" countryName="Central African Republic" population="4844927" capital="Bangui" continent="AF" languages="fr-CF,sg,ln,kg" />
-    <country countryCode="CG" countryName="Republic of the Congo" population="3039126" capital="Brazzaville" continent="AF" languages="fr-CG,kg,ln-CG" />
-    <country countryCode="CH" countryName="Switzerland" population="7581000" capital="Bern" continent="EU" languages="de-CH,fr-CH,it-CH,rm" />
-    <country countryCode="CI" countryName="Ivory Coast" population="21058798" capital="Yamoussoukro" continent="AF" languages="fr-CI" />
-    <country countryCode="CK" countryName="Cook Islands" population="21388" capital="Avarua" continent="OC" languages="en-CK,mi" />
-    <country countryCode="CL" countryName="Chile" population="16746491" capital="Santiago" continent="SA" languages="es-CL" />
-    <country countryCode="CM" countryName="Cameroon" population="19294149" capital="Yaoundé" continent="AF" languages="en-CM,fr-CM" />
-    <country countryCode="CN" countryName="China" population="1330044000" capital="Beijing" continent="AS" languages="zh-CN,yue,wuu,dta,ug,za" />
-    <country countryCode="CO" countryName="Colombia" population="47790000" capital="Bogotá" continent="SA" languages="es-CO" />
-    <country countryCode="CR" countryName="Costa Rica" population="4516220" capital="San José" continent="NA" languages="es-CR,en" />
-    <country countryCode="CU" countryName="Cuba" population="11423000" capital="Havana" continent="NA" languages="es-CU" />
-    <country countryCode="CV" countryName="Cape Verde" population="508659" capital="Praia" continent="AF" languages="pt-CV" />
-    <country countryCode="CW" countryName="Curacao" population="141766" capital="Willemstad" continent="NA" languages="nl,pap" />
-    <country countryCode="CX" countryName="Christmas Island" population="1500" capital="Flying Fish Cove" continent="AS" languages="en,zh,ms-CC" />
-    <country countryCode="CY" countryName="Cyprus" population="1102677" capital="Nicosia" continent="EU" languages="el-CY,tr-CY,en" />
-    <country countryCode="CZ" countryName="Czechia" population="10476000" capital="Prague" continent="EU" languages="cs,sk" />
-    <country countryCode="DE" countryName="Germany" population="81802257" capital="Berlin" continent="EU" languages="de" />
-    <country countryCode="DJ" countryName="Djibouti" population="740528" capital="Djibouti" continent="AF" languages="fr-DJ,ar,so-DJ,aa" />
-    <country countryCode="DK" countryName="Denmark" population="5484000" capital="Copenhagen" continent="EU" languages="da-DK,en,fo,de-DK" />
-    <country countryCode="DM" countryName="Dominica" population="72813" capital="Roseau" continent="NA" languages="en-DM" />
-    <country countryCode="DO" countryName="Dominican Republic" population="9823821" capital="Santo Domingo" continent="NA" languages="es-DO" />
-    <country countryCode="DZ" countryName="Algeria" population="34586184" capital="Algiers" continent="AF" languages="ar-DZ" />
-    <country countryCode="EC" countryName="Ecuador" population="14790608" capital="Quito" continent="SA" languages="es-EC" />
-    <country countryCode="EE" countryName="Estonia" population="1291170" capital="Tallinn" continent="EU" languages="et,ru" />
-    <country countryCode="EG" countryName="Egypt" population="80471869" capital="Cairo" continent="AF" languages="ar-EG,en,fr" />
-    <country countryCode="EH" countryName="Western Sahara" population="273008" capital="Laâyoune / El Aaiún" continent="AF" languages="ar,mey" />
-    <country countryCode="ER" countryName="Eritrea" population="5792984" capital="Asmara" continent="AF" languages="aa-ER,ar,tig,kun,ti-ER" />
-    <country countryCode="ES" countryName="Spain" population="46505963" capital="Madrid" continent="EU" languages="es-ES,ca,gl,eu,oc" />
-    <country countryCode="ET" countryName="Ethiopia" population="88013491" capital="Addis Ababa" continent="AF" languages="am,en-ET,om-ET,ti-ET,so-ET,sid" />
-    <country countryCode="FI" countryName="Finland" population="5244000" capital="Helsinki" continent="EU" languages="fi-FI,sv-FI,smn" />
-    <country countryCode="FJ" countryName="Fiji" population="875983" capital="Suva" continent="OC" languages="en-FJ,fj" />
-    <country countryCode="FK" countryName="Falkland Islands" population="2638" capital="Stanley" continent="SA" languages="en-FK" />
-    <country countryCode="FM" countryName="Micronesia" population="107708" capital="Palikir" continent="OC" languages="en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg" />
-    <country countryCode="FO" countryName="Faroe Islands" population="48228" capital="Tórshavn" continent="EU" languages="fo,da-FO" />
-    <country countryCode="FR" countryName="France" population="64768389" capital="Paris" continent="EU" languages="fr-FR,frp,br,co,ca,eu,oc" />
-    <country countryCode="GA" countryName="Gabon" population="1545255" capital="Libreville" continent="AF" languages="fr-GA" />
-    <country countryCode="GB" countryName="United Kingdom" population="62348447" capital="London" continent="EU" languages="en-GB,cy-GB,gd" />
-    <country countryCode="GD" countryName="Grenada" population="107818" capital="St. George's" continent="NA" languages="en-GD" />
-    <country countryCode="GE" countryName="Georgia" population="4630000" capital="Tbilisi" continent="AS" languages="ka,ru,hy,az" />
-    <country countryCode="GF" countryName="French Guiana" population="195506" capital="Cayenne" continent="SA" languages="fr-GF" />
-    <country countryCode="GG" countryName="Guernsey" population="65228" capital="St Peter Port" continent="EU" languages="en,fr" />
-    <country countryCode="GH" countryName="Ghana" population="24339838" capital="Accra" continent="AF" languages="en-GH,ak,ee,tw" />
-    <country countryCode="GI" countryName="Gibraltar" population="27884" capital="Gibraltar" continent="EU" languages="en-GI,es,it,pt" />
-    <country countryCode="GL" countryName="Greenland" population="56375" capital="Nuuk" continent="NA" languages="kl,da-GL,en" />
-    <country countryCode="GM" countryName="Gambia" population="1593256" capital="Bathurst" continent="AF" languages="en-GM,mnk,wof,wo,ff" />
-    <country countryCode="GN" countryName="Guinea" population="10324025" capital="Conakry" continent="AF" languages="fr-GN" />
-    <country countryCode="GP" countryName="Guadeloupe" population="443000" capital="Basse-Terre" continent="NA" languages="fr-GP" />
-    <country countryCode="GQ" countryName="Equatorial Guinea" population="1014999" capital="Malabo" continent="AF" languages="es-GQ,fr" />
-    <country countryCode="GR" countryName="Greece" population="11000000" capital="Athens" continent="EU" languages="el-GR,en,fr" />
-    <country countryCode="GS" countryName="South Georgia and the South Sandwich Islands" population="30" capital="Grytviken" continent="AN" languages="en" />
-    <country countryCode="GT" countryName="Guatemala" population="13550440" capital="Guatemala City" continent="NA" languages="es-GT" />
-    <country countryCode="GU" countryName="Guam" population="159358" capital="Hagåtña" continent="OC" languages="en-GU,ch-GU" />
-    <country countryCode="GW" countryName="Guinea-Bissau" population="1565126" capital="Bissau" continent="AF" languages="pt-GW,pov" />
-    <country countryCode="GY" countryName="Guyana" population="748486" capital="Georgetown" continent="SA" languages="en-GY" />
-    <country countryCode="HK" countryName="Hong Kong" population="6898686" capital="Hong Kong" continent="AS" languages="zh-HK,yue,zh,en" />
-    <country countryCode="HM" countryName="Heard Island and McDonald Islands" population="0" capital="" continent="AN" languages="" />
-    <country countryCode="HN" countryName="Honduras" population="7989415" capital="Tegucigalpa" continent="NA" languages="es-HN" />
-    <country countryCode="HR" countryName="Croatia" population="4284889" capital="Zagreb" continent="EU" languages="hr-HR,sr" />
-    <country countryCode="HT" countryName="Haiti" population="9648924" capital="Port-au-Prince" continent="NA" languages="ht,fr-HT" />
-    <country countryCode="HU" countryName="Hungary" population="9982000" capital="Budapest" continent="EU" languages="hu-HU" />
-    <country countryCode="ID" countryName="Indonesia" population="242968342" capital="Jakarta" continent="AS" languages="id,en,nl,jv" />
-    <country countryCode="IE" countryName="Ireland" population="4622917" capital="Dublin" continent="EU" languages="en-IE,ga-IE" />
-    <country countryCode="IL" countryName="Israel" population="7353985" capital="" continent="AS" languages="he,ar-IL,en-IL," />
-    <country countryCode="IM" countryName="Isle of Man" population="75049" capital="Douglas" continent="EU" languages="en,gv" />
-    <country countryCode="IN" countryName="India" population="1173108018" capital="New Delhi" continent="AS" languages="en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc" />
-    <country countryCode="IO" countryName="British Indian Ocean Territory" population="4000" capital="" continent="AS" languages="en-IO" />
-    <country countryCode="IQ" countryName="Iraq" population="29671605" capital="Baghdad" continent="AS" languages="ar-IQ,ku,hy" />
-    <country countryCode="IR" countryName="Iran" population="76923300" capital="Tehran" continent="AS" languages="fa-IR,ku" />
-    <country countryCode="IS" countryName="Iceland" population="308910" capital="Reykjavik" continent="EU" languages="is,en,de,da,sv,no" />
-    <country countryCode="IT" countryName="Italy" population="60340328" capital="Rome" continent="EU" languages="it-IT,de-IT,fr-IT,sc,ca,co,sl" />
-    <country countryCode="JE" countryName="Jersey" population="90812" capital="Saint Helier" continent="EU" languages="en,pt" />
-    <country countryCode="JM" countryName="Jamaica" population="2847232" capital="Kingston" continent="NA" languages="en-JM" />
-    <country countryCode="JO" countryName="Jordan" population="6407085" capital="Amman" continent="AS" languages="ar-JO,en" />
-    <country countryCode="JP" countryName="Japan" population="127288000" capital="Tokyo" continent="AS" languages="ja" />
-    <country countryCode="KE" countryName="Kenya" population="40046566" capital="Nairobi" continent="AF" languages="en-KE,sw-KE" />
-    <country countryCode="KG" countryName="Kyrgyzstan" population="5776500" capital="Bishkek" continent="AS" languages="ky,uz,ru" />
-    <country countryCode="KH" countryName="Cambodia" population="14453680" capital="Phnom Penh" continent="AS" languages="km,fr,en" />
-    <country countryCode="KI" countryName="Kiribati" population="92533" capital="Tarawa" continent="OC" languages="en-KI,gil" />
-    <country countryCode="KM" countryName="Comoros" population="773407" capital="Moroni" continent="AF" languages="ar,fr-KM" />
-    <country countryCode="KN" countryName="Saint Kitts and Nevis" population="51134" capital="Basseterre" continent="NA" languages="en-KN" />
-    <country countryCode="KP" countryName="North Korea" population="22912177" capital="Pyongyang" continent="AS" languages="ko-KP" />
-    <country countryCode="KR" countryName="South Korea" population="48422644" capital="Seoul" continent="AS" languages="ko-KR,en" />
-    <country countryCode="KW" countryName="Kuwait" population="2789132" capital="Kuwait City" continent="AS" languages="ar-KW,en" />
-    <country countryCode="KY" countryName="Cayman Islands" population="44270" capital="George Town" continent="NA" languages="en-KY" />
-    <country countryCode="KZ" countryName="Kazakhstan" population="15340000" capital="Astana" continent="AS" languages="kk,ru" />
-    <country countryCode="LA" countryName="Laos" population="6368162" capital="Vientiane" continent="AS" languages="lo,fr,en" />
-    <country countryCode="LB" countryName="Lebanon" population="4125247" capital="Beirut" continent="AS" languages="ar-LB,fr-LB,en,hy" />
-    <country countryCode="LC" countryName="Saint Lucia" population="160922" capital="Castries" continent="NA" languages="en-LC" />
-    <country countryCode="LI" countryName="Liechtenstein" population="35000" capital="Vaduz" continent="EU" languages="de-LI" />
-    <country countryCode="LK" countryName="Sri Lanka" population="21513990" capital="Colombo" continent="AS" languages="si,ta,en" />
-    <country countryCode="LR" countryName="Liberia" population="3685076" capital="Monrovia" continent="AF" languages="en-LR" />
-    <country countryCode="LS" countryName="Lesotho" population="1919552" capital="Maseru" continent="AF" languages="en-LS,st,zu,xh" />
-    <country countryCode="LT" countryName="Lithuania" population="2944459" capital="Vilnius" continent="EU" languages="lt,ru,pl" />
-    <country countryCode="LU" countryName="Luxembourg" population="497538" capital="Luxembourg" continent="EU" languages="lb,de-LU,fr-LU" />
-    <country countryCode="LV" countryName="Latvia" population="2217969" capital="Riga" continent="EU" languages="lv,ru,lt" />
-    <country countryCode="LY" countryName="Libya" population="6461454" capital="Tripoli" continent="AF" languages="ar-LY,it,en" />
-    <country countryCode="MA" countryName="Morocco" population="31627428" capital="Rabat" continent="AF" languages="ar-MA,fr" />
-    <country countryCode="MC" countryName="Monaco" population="32965" capital="Monaco" continent="EU" languages="fr-MC,en,it" />
-    <country countryCode="MD" countryName="Moldova" population="4324000" capital="Chişinău" continent="EU" languages="ro,ru,gag,tr" />
-    <country countryCode="ME" countryName="Montenegro" population="666730" capital="Podgorica" continent="EU" languages="sr,hu,bs,sq,hr,rom" />
-    <country countryCode="MF" countryName="Saint Martin" population="35925" capital="Marigot" continent="NA" languages="fr" />
-    <country countryCode="MG" countryName="Madagascar" population="21281844" capital="Antananarivo" continent="AF" languages="fr-MG,mg" />
-    <country countryCode="MH" countryName="Marshall Islands" population="65859" capital="Majuro" continent="OC" languages="mh,en-MH" />
-    <country countryCode="MK" countryName="Macedonia" population="2062294" capital="Skopje" continent="EU" languages="mk,sq,tr,rmm,sr" />
-    <country countryCode="ML" countryName="Mali" population="13796354" capital="Bamako" continent="AF" languages="fr-ML,bm" />
-    <country countryCode="MM" countryName="Myanmar [Burma]" population="53414374" capital="Naypyitaw" continent="AS" languages="my" />
-    <country countryCode="MN" countryName="Mongolia" population="3086918" capital="Ulan Bator" continent="AS" languages="mn,ru" />
-    <country countryCode="MO" countryName="Macao" population="449198" capital="Macao" continent="AS" languages="zh,zh-MO,pt" />
-    <country countryCode="MP" countryName="Northern Mariana Islands" population="53883" capital="Saipan" continent="OC" languages="fil,tl,zh,ch-MP,en-MP" />
-    <country countryCode="MQ" countryName="Martinique" population="432900" capital="Fort-de-France" continent="NA" languages="fr-MQ" />
-    <country countryCode="MR" countryName="Mauritania" population="3205060" capital="Nouakchott" continent="AF" languages="ar-MR,fuc,snk,fr,mey,wo" />
-    <country countryCode="MS" countryName="Montserrat" population="9341" capital="Plymouth" continent="NA" languages="en-MS" />
-    <country countryCode="MT" countryName="Malta" population="403000" capital="Valletta" continent="EU" languages="mt,en-MT" />
-    <country countryCode="MU" countryName="Mauritius" population="1294104" capital="Port Louis" continent="AF" languages="en-MU,bho,fr" />
-    <country countryCode="MV" countryName="Maldives" population="395650" capital="Malé" continent="AS" languages="dv,en" />
-    <country countryCode="MW" countryName="Malawi" population="15447500" capital="Lilongwe" continent="AF" languages="ny,yao,tum,swk" />
-    <country countryCode="MX" countryName="Mexico" population="112468855" capital="Mexico City" continent="NA" languages="es-MX" />
-    <country countryCode="MY" countryName="Malaysia" population="28274729" capital="Kuala Lumpur" continent="AS" languages="ms-MY,en,zh,ta,te,ml,pa,th" />
-    <country countryCode="MZ" countryName="Mozambique" population="22061451" capital="Maputo" continent="AF" languages="pt-MZ,vmw" />
-    <country countryCode="NA" countryName="Namibia" population="2128471" capital="Windhoek" continent="AF" languages="en-NA,af,de,hz,naq" />
-    <country countryCode="NC" countryName="New Caledonia" population="216494" capital="Noumea" continent="OC" languages="fr-NC" />
-    <country countryCode="NE" countryName="Niger" population="15878271" capital="Niamey" continent="AF" languages="fr-NE,ha,kr,dje" />
-    <country countryCode="NF" countryName="Norfolk Island" population="1828" capital="Kingston" continent="OC" languages="en-NF" />
-    <country countryCode="NG" countryName="Nigeria" population="154000000" capital="Abuja" continent="AF" languages="en-NG,ha,yo,ig,ff" />
-    <country countryCode="NI" countryName="Nicaragua" population="5995928" capital="Managua" continent="NA" languages="es-NI,en" />
-    <country countryCode="NL" countryName="Netherlands" population="16645000" capital="Amsterdam" continent="EU" languages="nl-NL,fy-NL" />
-    <country countryCode="NO" countryName="Norway" population="5009150" capital="Oslo" continent="EU" languages="no,nb,nn,se,fi" />
-    <country countryCode="NP" countryName="Nepal" population="28951852" capital="Kathmandu" continent="AS" languages="ne,en" />
-    <country countryCode="NR" countryName="Nauru" population="10065" capital="Yaren" continent="OC" languages="na,en-NR" />
-    <country countryCode="NU" countryName="Niue" population="2166" capital="Alofi" continent="OC" languages="niu,en-NU" />
-    <country countryCode="NZ" countryName="New Zealand" population="4252277" capital="Wellington" continent="OC" languages="en-NZ,mi" />
-    <country countryCode="OM" countryName="Oman" population="2967717" capital="Muscat" continent="AS" languages="ar-OM,en,bal,ur" />
-    <country countryCode="PA" countryName="Panama" population="3410676" capital="Panama City" continent="NA" languages="es-PA,en" />
-    <country countryCode="PE" countryName="Peru" population="29907003" capital="Lima" continent="SA" languages="es-PE,qu,ay" />
-    <country countryCode="PF" countryName="French Polynesia" population="270485" capital="Papeete" continent="OC" languages="fr-PF,ty" />
-    <country countryCode="PG" countryName="Papua New Guinea" population="6064515" capital="Port Moresby" continent="OC" languages="en-PG,ho,meu,tpi" />
-    <country countryCode="PH" countryName="Philippines" population="99900177" capital="Manila" continent="AS" languages="tl,en-PH,fil" />
-    <country countryCode="PK" countryName="Pakistan" population="184404791" capital="Islamabad" continent="AS" languages="ur-PK,en-PK,pa,sd,ps,brh" />
-    <country countryCode="PL" countryName="Poland" population="38500000" capital="Warsaw" continent="EU" languages="pl" />
-    <country countryCode="PM" countryName="Saint Pierre and Miquelon" population="7012" capital="Saint-Pierre" continent="NA" languages="fr-PM" />
-    <country countryCode="PN" countryName="Pitcairn Islands" population="46" capital="Adamstown" continent="OC" languages="en-PN" />
-    <country countryCode="PR" countryName="Puerto Rico" population="3916632" capital="San Juan" continent="NA" languages="en-PR,es-PR" />
-    <country countryCode="PS" countryName="Palestine" population="3800000" capital="" continent="AS" languages="ar-PS" />
-    <country countryCode="PT" countryName="Portugal" population="10676000" capital="Lisbon" continent="EU" languages="pt-PT,mwl" />
-    <country countryCode="PW" countryName="Palau" population="19907" capital="Melekeok" continent="OC" languages="pau,sov,en-PW,tox,ja,fil,zh" />
-    <country countryCode="PY" countryName="Paraguay" population="6375830" capital="Asunción" continent="SA" languages="es-PY,gn" />
-    <country countryCode="QA" countryName="Qatar" population="840926" capital="Doha" continent="AS" languages="ar-QA,es" />
-    <country countryCode="RE" countryName="Réunion" population="776948" capital="Saint-Denis" continent="AF" languages="fr-RE" />
-    <country countryCode="RO" countryName="Romania" population="21959278" capital="Bucharest" continent="EU" languages="ro,hu,rom" />
-    <country countryCode="RS" countryName="Serbia" population="7344847" capital="Belgrade" continent="EU" languages="sr,hu,bs,rom" />
-    <country countryCode="RU" countryName="Russia" population="140702000" capital="Moscow" continent="EU" languages="ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog" />
-    <country countryCode="RW" countryName="Rwanda" population="11055976" capital="Kigali" continent="AF" languages="rw,en-RW,fr-RW,sw" />
-    <country countryCode="SA" countryName="Saudi Arabia" population="25731776" capital="Riyadh" continent="AS" languages="ar-SA" />
-    <country countryCode="SB" countryName="Solomon Islands" population="559198" capital="Honiara" continent="OC" languages="en-SB,tpi" />
-    <country countryCode="SC" countryName="Seychelles" population="88340" capital="Victoria" continent="AF" languages="en-SC,fr-SC" />
-    <country countryCode="SD" countryName="Sudan" population="35000000" capital="Khartoum" continent="AF" languages="ar-SD,en,fia" />
-    <country countryCode="SE" countryName="Sweden" population="9828655" capital="Stockholm" continent="EU" languages="sv-SE,se,sma,fi-SE" />
-    <country countryCode="SG" countryName="Singapore" population="4701069" capital="Singapore" continent="AS" languages="cmn,en-SG,ms-SG,ta-SG,zh-SG" />
-    <country countryCode="SH" countryName="Saint Helena" population="7460" capital="Jamestown" continent="AF" languages="en-SH" />
-    <country countryCode="SI" countryName="Slovenia" population="2007000" capital="Ljubljana" continent="EU" languages="sl,sh" />
-    <country countryCode="SJ" countryName="Svalbard and Jan Mayen" population="2550" capital="Longyearbyen" continent="EU" languages="no,ru" />
-    <country countryCode="SK" countryName="Slovakia" population="5455000" capital="Bratislava" continent="EU" languages="sk,hu" />
-    <country countryCode="SL" countryName="Sierra Leone" population="5245695" capital="Freetown" continent="AF" languages="en-SL,men,tem" />
-    <country countryCode="SM" countryName="San Marino" population="31477" capital="San Marino" continent="EU" languages="it-SM" />
-    <country countryCode="SN" countryName="Senegal" population="12323252" capital="Dakar" continent="AF" languages="fr-SN,wo,fuc,mnk" />
-    <country countryCode="SO" countryName="Somalia" population="10112453" capital="Mogadishu" continent="AF" languages="so-SO,ar-SO,it,en-SO" />
-    <country countryCode="SR" countryName="Suriname" population="492829" capital="Paramaribo" continent="SA" languages="nl-SR,en,srn,hns,jv" />
-    <country countryCode="SS" countryName="South Sudan" population="8260490" capital="Juba" continent="AF" languages="en" />
-    <country countryCode="ST" countryName="São Tomé and Príncipe" population="175808" capital="São Tomé" continent="AF" languages="pt-ST" />
-    <country countryCode="SV" countryName="El Salvador" population="6052064" capital="San Salvador" continent="NA" languages="es-SV" />
-    <country countryCode="SX" countryName="Sint Maarten" population="37429" capital="Philipsburg" continent="NA" languages="nl,en" />
-    <country countryCode="SY" countryName="Syria" population="22198110" capital="Damascus" continent="AS" languages="ar-SY,ku,hy,arc,fr,en" />
-    <country countryCode="SZ" countryName="Swaziland" population="1354051" capital="Mbabane" continent="AF" languages="en-SZ,ss-SZ" />
-    <country countryCode="TC" countryName="Turks and Caicos Islands" population="20556" capital="Cockburn Town" continent="NA" languages="en-TC" />
-    <country countryCode="TD" countryName="Chad" population="10543464" capital="N'Djamena" continent="AF" languages="fr-TD,ar-TD,sre" />
-    <country countryCode="TF" countryName="French Southern Territories" population="140" capital="Port-aux-Français" continent="AN" languages="fr" />
-    <country countryCode="TG" countryName="Togo" population="6587239" capital="Lomé" continent="AF" languages="fr-TG,ee,hna,kbp,dag,ha" />
-    <country countryCode="TH" countryName="Thailand" population="67089500" capital="Bangkok" continent="AS" languages="th,en" />
-    <country countryCode="TJ" countryName="Tajikistan" population="7487489" capital="Dushanbe" continent="AS" languages="tg,ru" />
-    <country countryCode="TK" countryName="Tokelau" population="1466" capital="" continent="OC" languages="tkl,en-TK" />
-    <country countryCode="TL" countryName="East Timor" population="1154625" capital="Dili" continent="OC" languages="tet,pt-TL,id,en" />
-    <country countryCode="TM" countryName="Turkmenistan" population="4940916" capital="Ashgabat" continent="AS" languages="tk,ru,uz" />
-    <country countryCode="TN" countryName="Tunisia" population="10589025" capital="Tunis" continent="AF" languages="ar-TN,fr" />
-    <country countryCode="TO" countryName="Tonga" population="122580" capital="Nuku'alofa" continent="OC" languages="to,en-TO" />
-    <country countryCode="TR" countryName="Turkey" population="77804122" capital="Ankara" continent="AS" languages="tr-TR,ku,diq,az,av" />
-    <country countryCode="TT" countryName="Trinidad and Tobago" population="1228691" capital="Port of Spain" continent="NA" languages="en-TT,hns,fr,es,zh" />
-    <country countryCode="TV" countryName="Tuvalu" population="10472" capital="Funafuti" continent="OC" languages="tvl,en,sm,gil" />
-    <country countryCode="TW" countryName="Taiwan" population="22894384" capital="Taipei" continent="AS" languages="zh-TW,zh,nan,hak" />
-    <country countryCode="TZ" countryName="Tanzania" population="41892895" capital="Dodoma" continent="AF" languages="sw-TZ,en,ar" />
-    <country countryCode="UA" countryName="Ukraine" population="45415596" capital="Kiev" continent="EU" languages="uk,ru-UA,rom,pl,hu" />
-    <country countryCode="UG" countryName="Uganda" population="33398682" capital="Kampala" continent="AF" languages="en-UG,lg,sw,ar" />
-    <country countryCode="UM" countryName="U.S. Minor Outlying Islands" population="0" capital="" continent="OC" languages="en-UM" />
-    <country countryCode="US" countryName="United States" population="310232863" capital="Washington" continent="NA" languages="en-US,es-US,haw,fr" />
-    <country countryCode="UY" countryName="Uruguay" population="3477000" capital="Montevideo" continent="SA" languages="es-UY" />
-    <country countryCode="UZ" countryName="Uzbekistan" population="27865738" capital="Tashkent" continent="AS" languages="uz,ru,tg" />
-    <country countryCode="VA" countryName="Vatican City" population="921" capital="Vatican City" continent="EU" languages="la,it,fr" />
-    <country countryCode="VC" countryName="Saint Vincent and the Grenadines" population="104217" capital="Kingstown" continent="NA" languages="en-VC,fr" />
-    <country countryCode="VE" countryName="Venezuela" population="27223228" capital="Caracas" continent="SA" languages="es-VE" />
-    <country countryCode="VG" countryName="British Virgin Islands" population="21730" capital="Road Town" continent="NA" languages="en-VG" />
-    <country countryCode="VI" countryName="U.S. Virgin Islands" population="108708" capital="Charlotte Amalie" continent="NA" languages="en-VI" />
-    <country countryCode="VN" countryName="Vietnam" population="89571130" capital="Hanoi" continent="AS" languages="vi,en,fr,zh,km" />
-    <country countryCode="VU" countryName="Vanuatu" population="221552" capital="Port Vila" continent="OC" languages="bi,en-VU,fr-VU" />
-    <country countryCode="WF" countryName="Wallis and Futuna" population="16025" capital="Mata-Utu" continent="OC" languages="wls,fud,fr-WF" />
-    <country countryCode="WS" countryName="Samoa" population="192001" capital="Apia" continent="OC" languages="sm,en-WS" />
-    <country countryCode="XK" countryName="Kosovo" population="1800000" capital="Pristina" continent="EU" languages="sq,sr" />
-    <country countryCode="YE" countryName="Yemen" population="23495361" capital="Sanaa" continent="AS" languages="ar-YE" />
-    <country countryCode="YT" countryName="Mayotte" population="159042" capital="Mamoudzou" continent="AF" languages="fr-YT" />
-    <country countryCode="ZA" countryName="South Africa" population="49000000" capital="Pretoria" continent="AF" languages="zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr" />
-    <country countryCode="ZM" countryName="Zambia" population="13460305" capital="Lusaka" continent="AF" languages="en-ZM,bem,loz,lun,lue,ny,toi" />
-    <country countryCode="ZW" countryName="Zimbabwe" population="13061000" capital="Harare" continent="AF" languages="en-ZW,sn,nr,nd" />
-</countries>
+{
+    "countries": {
+        "country": [
+            {
+                "countryCode": "AD",
+                "countryName": "Andorra",
+                "population": "84000",
+                "capital": "Andorra la Vella",
+                "continentName": "Europe",
+                "languages": "ca"
+            },
+            {
+                "countryCode": "AE",
+                "countryName": "United Arab Emirates",
+                "population": "4975593",
+                "capital": "Abu Dhabi",
+                "continentName": "Asia",
+                "languages": "ar-AE,fa,en,hi,ur"
+            },
+            {
+                "countryCode": "AF",
+                "countryName": "Afghanistan",
+                "population": "29121286",
+                "capital": "Kabul",
+                "continentName": "Asia",
+                "languages": "fa-AF,ps,uz-AF,tk"
+            },
+            {
+                "countryCode": "AG",
+                "countryName": "Antigua and Barbuda",
+                "population": "86754",
+                "capital": "St. John's",
+                "continentName": "North America",
+                "languages": "en-AG"
+            },
+            {
+                "countryCode": "AI",
+                "countryName": "Anguilla",
+                "population": "13254",
+                "capital": "The Valley",
+                "continentName": "North America",
+                "languages": "en-AI"
+            },
+            {
+                "countryCode": "AL",
+                "countryName": "Albania",
+                "population": "2986952",
+                "capital": "Tirana",
+                "continentName": "Europe",
+                "languages": "sq,el"
+            },
+            {
+                "countryCode": "AM",
+                "countryName": "Armenia",
+                "population": "2968000",
+                "capital": "Yerevan",
+                "continentName": "Asia",
+                "languages": "hy"
+            },
+            {
+                "countryCode": "AO",
+                "countryName": "Angola",
+                "population": "13068161",
+                "capital": "Luanda",
+                "continentName": "Africa",
+                "languages": "pt-AO"
+            },
+            {
+                "countryCode": "AQ",
+                "countryName": "Antarctica",
+                "population": "0",
+                "capital": "",
+                "continentName": "Antarctica",
+                "languages": ""
+            },
+            {
+                "countryCode": "AR",
+                "countryName": "Argentina",
+                "population": "41343201",
+                "capital": "Buenos Aires",
+                "continentName": "South America",
+                "languages": "es-AR,en,it,de,fr,gn"
+            },
+            {
+                "countryCode": "AS",
+                "countryName": "American Samoa",
+                "population": "57881",
+                "capital": "Pago Pago",
+                "continentName": "Oceania",
+                "languages": "en-AS,sm,to"
+            },
+            {
+                "countryCode": "AT",
+                "countryName": "Austria",
+                "population": "8205000",
+                "capital": "Vienna",
+                "continentName": "Europe",
+                "languages": "de-AT,hr,hu,sl"
+            },
+            {
+                "countryCode": "AU",
+                "countryName": "Australia",
+                "population": "21515754",
+                "capital": "Canberra",
+                "continentName": "Oceania",
+                "languages": "en-AU"
+            },
+            {
+                "countryCode": "AW",
+                "countryName": "Aruba",
+                "population": "71566",
+                "capital": "Oranjestad",
+                "continentName": "North America",
+                "languages": "nl-AW,es,en"
+            },
+            {
+                "countryCode": "AX",
+                "countryName": "Åland",
+                "population": "26711",
+                "capital": "Mariehamn",
+                "continentName": "Europe",
+                "languages": "sv-AX"
+            },
+            {
+                "countryCode": "AZ",
+                "countryName": "Azerbaijan",
+                "population": "8303512",
+                "capital": "Baku",
+                "continentName": "Asia",
+                "languages": "az,ru,hy"
+            },
+            {
+                "countryCode": "BA",
+                "countryName": "Bosnia and Herzegovina",
+                "population": "4590000",
+                "capital": "Sarajevo",
+                "continentName": "Europe",
+                "languages": "bs,hr-BA,sr-BA"
+            },
+            {
+                "countryCode": "BB",
+                "countryName": "Barbados",
+                "population": "285653",
+                "capital": "Bridgetown",
+                "continentName": "North America",
+                "languages": "en-BB"
+            },
+            {
+                "countryCode": "BD",
+                "countryName": "Bangladesh",
+                "population": "156118464",
+                "capital": "Dhaka",
+                "continentName": "Asia",
+                "languages": "bn-BD,en"
+            },
+            {
+                "countryCode": "BE",
+                "countryName": "Belgium",
+                "population": "10403000",
+                "capital": "Brussels",
+                "continentName": "Europe",
+                "languages": "nl-BE,fr-BE,de-BE"
+            },
+            {
+                "countryCode": "BF",
+                "countryName": "Burkina Faso",
+                "population": "16241811",
+                "capital": "Ouagadougou",
+                "continentName": "Africa",
+                "languages": "fr-BF"
+            },
+            {
+                "countryCode": "BG",
+                "countryName": "Bulgaria",
+                "population": "7148785",
+                "capital": "Sofia",
+                "continentName": "Europe",
+                "languages": "bg,tr-BG,rom"
+            },
+            {
+                "countryCode": "BH",
+                "countryName": "Bahrain",
+                "population": "738004",
+                "capital": "Manama",
+                "continentName": "Asia",
+                "languages": "ar-BH,en,fa,ur"
+            },
+            {
+                "countryCode": "BI",
+                "countryName": "Burundi",
+                "population": "9863117",
+                "capital": "Bujumbura",
+                "continentName": "Africa",
+                "languages": "fr-BI,rn"
+            },
+            {
+                "countryCode": "BJ",
+                "countryName": "Benin",
+                "population": "9056010",
+                "capital": "Porto-Novo",
+                "continentName": "Africa",
+                "languages": "fr-BJ"
+            },
+            {
+                "countryCode": "BL",
+                "countryName": "Saint Barthélemy",
+                "population": "8450",
+                "capital": "Gustavia",
+                "continentName": "North America",
+                "languages": "fr"
+            },
+            {
+                "countryCode": "BM",
+                "countryName": "Bermuda",
+                "population": "65365",
+                "capital": "Hamilton",
+                "continentName": "North America",
+                "languages": "en-BM,pt"
+            },
+            {
+                "countryCode": "BN",
+                "countryName": "Brunei",
+                "population": "395027",
+                "capital": "Bandar Seri Begawan",
+                "continentName": "Asia",
+                "languages": "ms-BN,en-BN"
+            },
+            {
+                "countryCode": "BO",
+                "countryName": "Bolivia",
+                "population": "9947418",
+                "capital": "Sucre",
+                "continentName": "South America",
+                "languages": "es-BO,qu,ay"
+            },
+            {
+                "countryCode": "BQ",
+                "countryName": "Bonaire",
+                "population": "18012",
+                "capital": "Kralendijk",
+                "continentName": "North America",
+                "languages": "nl,pap,en"
+            },
+            {
+                "countryCode": "BR",
+                "countryName": "Brazil",
+                "population": "201103330",
+                "capital": "Brasília",
+                "continentName": "South America",
+                "languages": "pt-BR,es,en,fr"
+            },
+            {
+                "countryCode": "BS",
+                "countryName": "Bahamas",
+                "population": "301790",
+                "capital": "Nassau",
+                "continentName": "North America",
+                "languages": "en-BS"
+            },
+            {
+                "countryCode": "BT",
+                "countryName": "Bhutan",
+                "population": "699847",
+                "capital": "Thimphu",
+                "continentName": "Asia",
+                "languages": "dz"
+            },
+            {
+                "countryCode": "BV",
+                "countryName": "Bouvet Island",
+                "population": "0",
+                "capital": "",
+                "continentName": "Antarctica",
+                "languages": ""
+            },
+            {
+                "countryCode": "BW",
+                "countryName": "Botswana",
+                "population": "2029307",
+                "capital": "Gaborone",
+                "continentName": "Africa",
+                "languages": "en-BW,tn-BW"
+            },
+            {
+                "countryCode": "BY",
+                "countryName": "Belarus",
+                "population": "9685000",
+                "capital": "Minsk",
+                "continentName": "Europe",
+                "languages": "be,ru"
+            },
+            {
+                "countryCode": "BZ",
+                "countryName": "Belize",
+                "population": "314522",
+                "capital": "Belmopan",
+                "continentName": "North America",
+                "languages": "en-BZ,es"
+            },
+            {
+                "countryCode": "CA",
+                "countryName": "Canada",
+                "population": "33679000",
+                "capital": "Ottawa",
+                "continentName": "North America",
+                "languages": "en-CA,fr-CA,iu"
+            },
+            {
+                "countryCode": "CC",
+                "countryName": "Cocos [Keeling] Islands",
+                "population": "628",
+                "capital": "West Island",
+                "continentName": "Asia",
+                "languages": "ms-CC,en"
+            },
+            {
+                "countryCode": "CD",
+                "countryName": "Democratic Republic of the Congo",
+                "population": "70916439",
+                "capital": "Kinshasa",
+                "continentName": "Africa",
+                "languages": "fr-CD,ln,kg"
+            },
+            {
+                "countryCode": "CF",
+                "countryName": "Central African Republic",
+                "population": "4844927",
+                "capital": "Bangui",
+                "continentName": "Africa",
+                "languages": "fr-CF,sg,ln,kg"
+            },
+            {
+                "countryCode": "CG",
+                "countryName": "Republic of the Congo",
+                "population": "3039126",
+                "capital": "Brazzaville",
+                "continentName": "Africa",
+                "languages": "fr-CG,kg,ln-CG"
+            },
+            {
+                "countryCode": "CH",
+                "countryName": "Switzerland",
+                "population": "7581000",
+                "capital": "Bern",
+                "continentName": "Europe",
+                "languages": "de-CH,fr-CH,it-CH,rm"
+            },
+            {
+                "countryCode": "CI",
+                "countryName": "Ivory Coast",
+                "population": "21058798",
+                "capital": "Yamoussoukro",
+                "continentName": "Africa",
+                "languages": "fr-CI"
+            },
+            {
+                "countryCode": "CK",
+                "countryName": "Cook Islands",
+                "population": "21388",
+                "capital": "Avarua",
+                "continentName": "Oceania",
+                "languages": "en-CK,mi"
+            },
+            {
+                "countryCode": "CL",
+                "countryName": "Chile",
+                "population": "16746491",
+                "capital": "Santiago",
+                "continentName": "South America",
+                "languages": "es-CL"
+            },
+            {
+                "countryCode": "CM",
+                "countryName": "Cameroon",
+                "population": "19294149",
+                "capital": "Yaoundé",
+                "continentName": "Africa",
+                "languages": "en-CM,fr-CM"
+            },
+            {
+                "countryCode": "CN",
+                "countryName": "China",
+                "population": "1330044000",
+                "capital": "Beijing",
+                "continentName": "Asia",
+                "languages": "zh-CN,yue,wuu,dta,ug,za"
+            },
+            {
+                "countryCode": "CO",
+                "countryName": "Colombia",
+                "population": "47790000",
+                "capital": "Bogotá",
+                "continentName": "South America",
+                "languages": "es-CO"
+            },
+            {
+                "countryCode": "CR",
+                "countryName": "Costa Rica",
+                "population": "4516220",
+                "capital": "San José",
+                "continentName": "North America",
+                "languages": "es-CR,en"
+            },
+            {
+                "countryCode": "CU",
+                "countryName": "Cuba",
+                "population": "11423000",
+                "capital": "Havana",
+                "continentName": "North America",
+                "languages": "es-CU"
+            },
+            {
+                "countryCode": "CV",
+                "countryName": "Cape Verde",
+                "population": "508659",
+                "capital": "Praia",
+                "continentName": "Africa",
+                "languages": "pt-CV"
+            },
+            {
+                "countryCode": "CW",
+                "countryName": "Curacao",
+                "population": "141766",
+                "capital": "Willemstad",
+                "continentName": "North America",
+                "languages": "nl,pap"
+            },
+            {
+                "countryCode": "CX",
+                "countryName": "Christmas Island",
+                "population": "1500",
+                "capital": "Flying Fish Cove",
+                "continentName": "Asia",
+                "languages": "en,zh,ms-CC"
+            },
+            {
+                "countryCode": "CY",
+                "countryName": "Cyprus",
+                "population": "1102677",
+                "capital": "Nicosia",
+                "continentName": "Europe",
+                "languages": "el-CY,tr-CY,en"
+            },
+            {
+                "countryCode": "CZ",
+                "countryName": "Czechia",
+                "population": "10476000",
+                "capital": "Prague",
+                "continentName": "Europe",
+                "languages": "cs,sk"
+            },
+            {
+                "countryCode": "DE",
+                "countryName": "Germany",
+                "population": "81802257",
+                "capital": "Berlin",
+                "continentName": "Europe",
+                "languages": "de"
+            },
+            {
+                "countryCode": "DJ",
+                "countryName": "Djibouti",
+                "population": "740528",
+                "capital": "Djibouti",
+                "continentName": "Africa",
+                "languages": "fr-DJ,ar,so-DJ,aa"
+            },
+            {
+                "countryCode": "DK",
+                "countryName": "Denmark",
+                "population": "5484000",
+                "capital": "Copenhagen",
+                "continentName": "Europe",
+                "languages": "da-DK,en,fo,de-DK"
+            },
+            {
+                "countryCode": "DM",
+                "countryName": "Dominica",
+                "population": "72813",
+                "capital": "Roseau",
+                "continentName": "North America",
+                "languages": "en-DM"
+            },
+            {
+                "countryCode": "DO",
+                "countryName": "Dominican Republic",
+                "population": "9823821",
+                "capital": "Santo Domingo",
+                "continentName": "North America",
+                "languages": "es-DO"
+            },
+            {
+                "countryCode": "DZ",
+                "countryName": "Algeria",
+                "population": "34586184",
+                "capital": "Algiers",
+                "continentName": "Africa",
+                "languages": "ar-DZ"
+            },
+            {
+                "countryCode": "EC",
+                "countryName": "Ecuador",
+                "population": "14790608",
+                "capital": "Quito",
+                "continentName": "South America",
+                "languages": "es-EC"
+            },
+            {
+                "countryCode": "EE",
+                "countryName": "Estonia",
+                "population": "1291170",
+                "capital": "Tallinn",
+                "continentName": "Europe",
+                "languages": "et,ru"
+            },
+            {
+                "countryCode": "EG",
+                "countryName": "Egypt",
+                "population": "80471869",
+                "capital": "Cairo",
+                "continentName": "Africa",
+                "languages": "ar-EG,en,fr"
+            },
+            {
+                "countryCode": "EH",
+                "countryName": "Western Sahara",
+                "population": "273008",
+                "capital": "Laâyoune / El Aaiún",
+                "continentName": "Africa",
+                "languages": "ar,mey"
+            },
+            {
+                "countryCode": "ER",
+                "countryName": "Eritrea",
+                "population": "5792984",
+                "capital": "Asmara",
+                "continentName": "Africa",
+                "languages": "aa-ER,ar,tig,kun,ti-ER"
+            },
+            {
+                "countryCode": "ES",
+                "countryName": "Spain",
+                "population": "46505963",
+                "capital": "Madrid",
+                "continentName": "Europe",
+                "languages": "es-ES,ca,gl,eu,oc"
+            },
+            {
+                "countryCode": "ET",
+                "countryName": "Ethiopia",
+                "population": "88013491",
+                "capital": "Addis Ababa",
+                "continentName": "Africa",
+                "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid"
+            },
+            {
+                "countryCode": "FI",
+                "countryName": "Finland",
+                "population": "5244000",
+                "capital": "Helsinki",
+                "continentName": "Europe",
+                "languages": "fi-FI,sv-FI,smn"
+            },
+            {
+                "countryCode": "FJ",
+                "countryName": "Fiji",
+                "population": "875983",
+                "capital": "Suva",
+                "continentName": "Oceania",
+                "languages": "en-FJ,fj"
+            },
+            {
+                "countryCode": "FK",
+                "countryName": "Falkland Islands",
+                "population": "2638",
+                "capital": "Stanley",
+                "continentName": "South America",
+                "languages": "en-FK"
+            },
+            {
+                "countryCode": "FM",
+                "countryName": "Micronesia",
+                "population": "107708",
+                "capital": "Palikir",
+                "continentName": "Oceania",
+                "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg"
+            },
+            {
+                "countryCode": "FO",
+                "countryName": "Faroe Islands",
+                "population": "48228",
+                "capital": "Tórshavn",
+                "continentName": "Europe",
+                "languages": "fo,da-FO"
+            },
+            {
+                "countryCode": "FR",
+                "countryName": "France",
+                "population": "64768389",
+                "capital": "Paris",
+                "continentName": "Europe",
+                "languages": "fr-FR,frp,br,co,ca,eu,oc"
+            },
+            {
+                "countryCode": "GA",
+                "countryName": "Gabon",
+                "population": "1545255",
+                "capital": "Libreville",
+                "continentName": "Africa",
+                "languages": "fr-GA"
+            },
+            {
+                "countryCode": "GB",
+                "countryName": "United Kingdom",
+                "population": "62348447",
+                "capital": "London",
+                "continentName": "Europe",
+                "languages": "en-GB,cy-GB,gd"
+            },
+            {
+                "countryCode": "GD",
+                "countryName": "Grenada",
+                "population": "107818",
+                "capital": "St. George's",
+                "continentName": "North America",
+                "languages": "en-GD"
+            },
+            {
+                "countryCode": "GE",
+                "countryName": "Georgia",
+                "population": "4630000",
+                "capital": "Tbilisi",
+                "continentName": "Asia",
+                "languages": "ka,ru,hy,az"
+            },
+            {
+                "countryCode": "GF",
+                "countryName": "French Guiana",
+                "population": "195506",
+                "capital": "Cayenne",
+                "continentName": "South America",
+                "languages": "fr-GF"
+            },
+            {
+                "countryCode": "GG",
+                "countryName": "Guernsey",
+                "population": "65228",
+                "capital": "St Peter Port",
+                "continentName": "Europe",
+                "languages": "en,fr"
+            },
+            {
+                "countryCode": "GH",
+                "countryName": "Ghana",
+                "population": "24339838",
+                "capital": "Accra",
+                "continentName": "Africa",
+                "languages": "en-GH,ak,ee,tw"
+            },
+            {
+                "countryCode": "GI",
+                "countryName": "Gibraltar",
+                "population": "27884",
+                "capital": "Gibraltar",
+                "continentName": "Europe",
+                "languages": "en-GI,es,it,pt"
+            },
+            {
+                "countryCode": "GL",
+                "countryName": "Greenland",
+                "population": "56375",
+                "capital": "Nuuk",
+                "continentName": "North America",
+                "languages": "kl,da-GL,en"
+            },
+            {
+                "countryCode": "GM",
+                "countryName": "Gambia",
+                "population": "1593256",
+                "capital": "Bathurst",
+                "continentName": "Africa",
+                "languages": "en-GM,mnk,wof,wo,ff"
+            },
+            {
+                "countryCode": "GN",
+                "countryName": "Guinea",
+                "population": "10324025",
+                "capital": "Conakry",
+                "continentName": "Africa",
+                "languages": "fr-GN"
+            },
+            {
+                "countryCode": "GP",
+                "countryName": "Guadeloupe",
+                "population": "443000",
+                "capital": "Basse-Terre",
+                "continentName": "North America",
+                "languages": "fr-GP"
+            },
+            {
+                "countryCode": "GQ",
+                "countryName": "Equatorial Guinea",
+                "population": "1014999",
+                "capital": "Malabo",
+                "continentName": "Africa",
+                "languages": "es-GQ,fr"
+            },
+            {
+                "countryCode": "GR",
+                "countryName": "Greece",
+                "population": "11000000",
+                "capital": "Athens",
+                "continentName": "Europe",
+                "languages": "el-GR,en,fr"
+            },
+            {
+                "countryCode": "GS",
+                "countryName": "South Georgia and the South Sandwich Islands",
+                "population": "30",
+                "capital": "Grytviken",
+                "continentName": "Antarctica",
+                "languages": "en"
+            },
+            {
+                "countryCode": "GT",
+                "countryName": "Guatemala",
+                "population": "13550440",
+                "capital": "Guatemala City",
+                "continentName": "North America",
+                "languages": "es-GT"
+            },
+            {
+                "countryCode": "GU",
+                "countryName": "Guam",
+                "population": "159358",
+                "capital": "Hagåtña",
+                "continentName": "Oceania",
+                "languages": "en-GU,ch-GU"
+            },
+            {
+                "countryCode": "GW",
+                "countryName": "Guinea-Bissau",
+                "population": "1565126",
+                "capital": "Bissau",
+                "continentName": "Africa",
+                "languages": "pt-GW,pov"
+            },
+            {
+                "countryCode": "GY",
+                "countryName": "Guyana",
+                "population": "748486",
+                "capital": "Georgetown",
+                "continentName": "South America",
+                "languages": "en-GY"
+            },
+            {
+                "countryCode": "HK",
+                "countryName": "Hong Kong",
+                "population": "6898686",
+                "capital": "Hong Kong",
+                "continentName": "Asia",
+                "languages": "zh-HK,yue,zh,en"
+            },
+            {
+                "countryCode": "HM",
+                "countryName": "Heard Island and McDonald Islands",
+                "population": "0",
+                "capital": "",
+                "continentName": "Antarctica",
+                "languages": ""
+            },
+            {
+                "countryCode": "HN",
+                "countryName": "Honduras",
+                "population": "7989415",
+                "capital": "Tegucigalpa",
+                "continentName": "North America",
+                "languages": "es-HN"
+            },
+            {
+                "countryCode": "HR",
+                "countryName": "Croatia",
+                "population": "4284889",
+                "capital": "Zagreb",
+                "continentName": "Europe",
+                "languages": "hr-HR,sr"
+            },
+            {
+                "countryCode": "HT",
+                "countryName": "Haiti",
+                "population": "9648924",
+                "capital": "Port-au-Prince",
+                "continentName": "North America",
+                "languages": "ht,fr-HT"
+            },
+            {
+                "countryCode": "HU",
+                "countryName": "Hungary",
+                "population": "9982000",
+                "capital": "Budapest",
+                "continentName": "Europe",
+                "languages": "hu-HU"
+            },
+            {
+                "countryCode": "ID",
+                "countryName": "Indonesia",
+                "population": "242968342",
+                "capital": "Jakarta",
+                "continentName": "Asia",
+                "languages": "id,en,nl,jv"
+            },
+            {
+                "countryCode": "IE",
+                "countryName": "Ireland",
+                "population": "4622917",
+                "capital": "Dublin",
+                "continentName": "Europe",
+                "languages": "en-IE,ga-IE"
+            },
+            {
+                "countryCode": "IL",
+                "countryName": "Israel",
+                "population": "7353985",
+                "capital": "",
+                "continentName": "Asia",
+                "languages": "he,ar-IL,en-IL,"
+            },
+            {
+                "countryCode": "IM",
+                "countryName": "Isle of Man",
+                "population": "75049",
+                "capital": "Douglas",
+                "continentName": "Europe",
+                "languages": "en,gv"
+            },
+            {
+                "countryCode": "IN",
+                "countryName": "India",
+                "population": "1173108018",
+                "capital": "New Delhi",
+                "continentName": "Asia",
+                "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc"
+            },
+            {
+                "countryCode": "IO",
+                "countryName": "British Indian Ocean Territory",
+                "population": "4000",
+                "capital": "",
+                "continentName": "Asia",
+                "languages": "en-IO"
+            },
+            {
+                "countryCode": "IQ",
+                "countryName": "Iraq",
+                "population": "29671605",
+                "capital": "Baghdad",
+                "continentName": "Asia",
+                "languages": "ar-IQ,ku,hy"
+            },
+            {
+                "countryCode": "IR",
+                "countryName": "Iran",
+                "population": "76923300",
+                "capital": "Tehran",
+                "continentName": "Asia",
+                "languages": "fa-IR,ku"
+            },
+            {
+                "countryCode": "IS",
+                "countryName": "Iceland",
+                "population": "308910",
+                "capital": "Reykjavik",
+                "continentName": "Europe",
+                "languages": "is,en,de,da,sv,no"
+            },
+            {
+                "countryCode": "IT",
+                "countryName": "Italy",
+                "population": "60340328",
+                "capital": "Rome",
+                "continentName": "Europe",
+                "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl"
+            },
+            {
+                "countryCode": "JE",
+                "countryName": "Jersey",
+                "population": "90812",
+                "capital": "Saint Helier",
+                "continentName": "Europe",
+                "languages": "en,pt"
+            },
+            {
+                "countryCode": "JM",
+                "countryName": "Jamaica",
+                "population": "2847232",
+                "capital": "Kingston",
+                "continentName": "North America",
+                "languages": "en-JM"
+            },
+            {
+                "countryCode": "JO",
+                "countryName": "Jordan",
+                "population": "6407085",
+                "capital": "Amman",
+                "continentName": "Asia",
+                "languages": "ar-JO,en"
+            },
+            {
+                "countryCode": "JP",
+                "countryName": "Japan",
+                "population": "127288000",
+                "capital": "Tokyo",
+                "continentName": "Asia",
+                "languages": "ja"
+            },
+            {
+                "countryCode": "KE",
+                "countryName": "Kenya",
+                "population": "40046566",
+                "capital": "Nairobi",
+                "continentName": "Africa",
+                "languages": "en-KE,sw-KE"
+            },
+            {
+                "countryCode": "KG",
+                "countryName": "Kyrgyzstan",
+                "population": "5776500",
+                "capital": "Bishkek",
+                "continentName": "Asia",
+                "languages": "ky,uz,ru"
+            },
+            {
+                "countryCode": "KH",
+                "countryName": "Cambodia",
+                "population": "14453680",
+                "capital": "Phnom Penh",
+                "continentName": "Asia",
+                "languages": "km,fr,en"
+            },
+            {
+                "countryCode": "KI",
+                "countryName": "Kiribati",
+                "population": "92533",
+                "capital": "Tarawa",
+                "continentName": "Oceania",
+                "languages": "en-KI,gil"
+            },
+            {
+                "countryCode": "KM",
+                "countryName": "Comoros",
+                "population": "773407",
+                "capital": "Moroni",
+                "continentName": "Africa",
+                "languages": "ar,fr-KM"
+            },
+            {
+                "countryCode": "KN",
+                "countryName": "Saint Kitts and Nevis",
+                "population": "51134",
+                "capital": "Basseterre",
+                "continentName": "North America",
+                "languages": "en-KN"
+            },
+            {
+                "countryCode": "KP",
+                "countryName": "North Korea",
+                "population": "22912177",
+                "capital": "Pyongyang",
+                "continentName": "Asia",
+                "languages": "ko-KP"
+            },
+            {
+                "countryCode": "KR",
+                "countryName": "South Korea",
+                "population": "48422644",
+                "capital": "Seoul",
+                "continentName": "Asia",
+                "languages": "ko-KR,en"
+            },
+            {
+                "countryCode": "KW",
+                "countryName": "Kuwait",
+                "population": "2789132",
+                "capital": "Kuwait City",
+                "continentName": "Asia",
+                "languages": "ar-KW,en"
+            },
+            {
+                "countryCode": "KY",
+                "countryName": "Cayman Islands",
+                "population": "44270",
+                "capital": "George Town",
+                "continentName": "North America",
+                "languages": "en-KY"
+            },
+            {
+                "countryCode": "KZ",
+                "countryName": "Kazakhstan",
+                "population": "15340000",
+                "capital": "Astana",
+                "continentName": "Asia",
+                "languages": "kk,ru"
+            },
+            {
+                "countryCode": "LA",
+                "countryName": "Laos",
+                "population": "6368162",
+                "capital": "Vientiane",
+                "continentName": "Asia",
+                "languages": "lo,fr,en"
+            },
+            {
+                "countryCode": "LB",
+                "countryName": "Lebanon",
+                "population": "4125247",
+                "capital": "Beirut",
+                "continentName": "Asia",
+                "languages": "ar-LB,fr-LB,en,hy"
+            },
+            {
+                "countryCode": "LC",
+                "countryName": "Saint Lucia",
+                "population": "160922",
+                "capital": "Castries",
+                "continentName": "North America",
+                "languages": "en-LC"
+            },
+            {
+                "countryCode": "LI",
+                "countryName": "Liechtenstein",
+                "population": "35000",
+                "capital": "Vaduz",
+                "continentName": "Europe",
+                "languages": "de-LI"
+            },
+            {
+                "countryCode": "LK",
+                "countryName": "Sri Lanka",
+                "population": "21513990",
+                "capital": "Colombo",
+                "continentName": "Asia",
+                "languages": "si,ta,en"
+            },
+            {
+                "countryCode": "LR",
+                "countryName": "Liberia",
+                "population": "3685076",
+                "capital": "Monrovia",
+                "continentName": "Africa",
+                "languages": "en-LR"
+            },
+            {
+                "countryCode": "LS",
+                "countryName": "Lesotho",
+                "population": "1919552",
+                "capital": "Maseru",
+                "continentName": "Africa",
+                "languages": "en-LS,st,zu,xh"
+            },
+            {
+                "countryCode": "LT",
+                "countryName": "Lithuania",
+                "population": "2944459",
+                "capital": "Vilnius",
+                "continentName": "Europe",
+                "languages": "lt,ru,pl"
+            },
+            {
+                "countryCode": "LU",
+                "countryName": "Luxembourg",
+                "population": "497538",
+                "capital": "Luxembourg",
+                "continentName": "Europe",
+                "languages": "lb,de-LU,fr-LU"
+            },
+            {
+                "countryCode": "LV",
+                "countryName": "Latvia",
+                "population": "2217969",
+                "capital": "Riga",
+                "continentName": "Europe",
+                "languages": "lv,ru,lt"
+            },
+            {
+                "countryCode": "LY",
+                "countryName": "Libya",
+                "population": "6461454",
+                "capital": "Tripoli",
+                "continentName": "Africa",
+                "languages": "ar-LY,it,en"
+            },
+            {
+                "countryCode": "MA",
+                "countryName": "Morocco",
+                "population": "31627428",
+                "capital": "Rabat",
+                "continentName": "Africa",
+                "languages": "ar-MA,fr"
+            },
+            {
+                "countryCode": "MC",
+                "countryName": "Monaco",
+                "population": "32965",
+                "capital": "Monaco",
+                "continentName": "Europe",
+                "languages": "fr-MC,en,it"
+            },
+            {
+                "countryCode": "MD",
+                "countryName": "Moldova",
+                "population": "4324000",
+                "capital": "Chişinău",
+                "continentName": "Europe",
+                "languages": "ro,ru,gag,tr"
+            },
+            {
+                "countryCode": "ME",
+                "countryName": "Montenegro",
+                "population": "666730",
+                "capital": "Podgorica",
+                "continentName": "Europe",
+                "languages": "sr,hu,bs,sq,hr,rom"
+            },
+            {
+                "countryCode": "MF",
+                "countryName": "Saint Martin",
+                "population": "35925",
+                "capital": "Marigot",
+                "continentName": "North America",
+                "languages": "fr"
+            },
+            {
+                "countryCode": "MG",
+                "countryName": "Madagascar",
+                "population": "21281844",
+                "capital": "Antananarivo",
+                "continentName": "Africa",
+                "languages": "fr-MG,mg"
+            },
+            {
+                "countryCode": "MH",
+                "countryName": "Marshall Islands",
+                "population": "65859",
+                "capital": "Majuro",
+                "continentName": "Oceania",
+                "languages": "mh,en-MH"
+            },
+            {
+                "countryCode": "MK",
+                "countryName": "Macedonia",
+                "population": "2062294",
+                "capital": "Skopje",
+                "continentName": "Europe",
+                "languages": "mk,sq,tr,rmm,sr"
+            },
+            {
+                "countryCode": "ML",
+                "countryName": "Mali",
+                "population": "13796354",
+                "capital": "Bamako",
+                "continentName": "Africa",
+                "languages": "fr-ML,bm"
+            },
+            {
+                "countryCode": "MM",
+                "countryName": "Myanmar [Burma]",
+                "population": "53414374",
+                "capital": "Naypyitaw",
+                "continentName": "Asia",
+                "languages": "my"
+            },
+            {
+                "countryCode": "MN",
+                "countryName": "Mongolia",
+                "population": "3086918",
+                "capital": "Ulan Bator",
+                "continentName": "Asia",
+                "languages": "mn,ru"
+            },
+            {
+                "countryCode": "MO",
+                "countryName": "Macao",
+                "population": "449198",
+                "capital": "Macao",
+                "continentName": "Asia",
+                "languages": "zh,zh-MO,pt"
+            },
+            {
+                "countryCode": "MP",
+                "countryName": "Northern Mariana Islands",
+                "population": "53883",
+                "capital": "Saipan",
+                "continentName": "Oceania",
+                "languages": "fil,tl,zh,ch-MP,en-MP"
+            },
+            {
+                "countryCode": "MQ",
+                "countryName": "Martinique",
+                "population": "432900",
+                "capital": "Fort-de-France",
+                "continentName": "North America",
+                "languages": "fr-MQ"
+            },
+            {
+                "countryCode": "MR",
+                "countryName": "Mauritania",
+                "population": "3205060",
+                "capital": "Nouakchott",
+                "continentName": "Africa",
+                "languages": "ar-MR,fuc,snk,fr,mey,wo"
+            },
+            {
+                "countryCode": "MS",
+                "countryName": "Montserrat",
+                "population": "9341",
+                "capital": "Plymouth",
+                "continentName": "North America",
+                "languages": "en-MS"
+            },
+            {
+                "countryCode": "MT",
+                "countryName": "Malta",
+                "population": "403000",
+                "capital": "Valletta",
+                "continentName": "Europe",
+                "languages": "mt,en-MT"
+            },
+            {
+                "countryCode": "MU",
+                "countryName": "Mauritius",
+                "population": "1294104",
+                "capital": "Port Louis",
+                "continentName": "Africa",
+                "languages": "en-MU,bho,fr"
+            },
+            {
+                "countryCode": "MV",
+                "countryName": "Maldives",
+                "population": "395650",
+                "capital": "Malé",
+                "continentName": "Asia",
+                "languages": "dv,en"
+            },
+            {
+                "countryCode": "MW",
+                "countryName": "Malawi",
+                "population": "15447500",
+                "capital": "Lilongwe",
+                "continentName": "Africa",
+                "languages": "ny,yao,tum,swk"
+            },
+            {
+                "countryCode": "MX",
+                "countryName": "Mexico",
+                "population": "112468855",
+                "capital": "Mexico City",
+                "continentName": "North America",
+                "languages": "es-MX"
+            },
+            {
+                "countryCode": "MY",
+                "countryName": "Malaysia",
+                "population": "28274729",
+                "capital": "Kuala Lumpur",
+                "continentName": "Asia",
+                "languages": "ms-MY,en,zh,ta,te,ml,pa,th"
+            },
+            {
+                "countryCode": "MZ",
+                "countryName": "Mozambique",
+                "population": "22061451",
+                "capital": "Maputo",
+                "continentName": "Africa",
+                "languages": "pt-MZ,vmw"
+            },
+            {
+                "countryCode": "NA",
+                "countryName": "Namibia",
+                "population": "2128471",
+                "capital": "Windhoek",
+                "continentName": "Africa",
+                "languages": "en-NA,af,de,hz,naq"
+            },
+            {
+                "countryCode": "NC",
+                "countryName": "New Caledonia",
+                "population": "216494",
+                "capital": "Noumea",
+                "continentName": "Oceania",
+                "languages": "fr-NC"
+            },
+            {
+                "countryCode": "NE",
+                "countryName": "Niger",
+                "population": "15878271",
+                "capital": "Niamey",
+                "continentName": "Africa",
+                "languages": "fr-NE,ha,kr,dje"
+            },
+            {
+                "countryCode": "NF",
+                "countryName": "Norfolk Island",
+                "population": "1828",
+                "capital": "Kingston",
+                "continentName": "Oceania",
+                "languages": "en-NF"
+            },
+            {
+                "countryCode": "NG",
+                "countryName": "Nigeria",
+                "population": "154000000",
+                "capital": "Abuja",
+                "continentName": "Africa",
+                "languages": "en-NG,ha,yo,ig,ff"
+            },
+            {
+                "countryCode": "NI",
+                "countryName": "Nicaragua",
+                "population": "5995928",
+                "capital": "Managua",
+                "continentName": "North America",
+                "languages": "es-NI,en"
+            },
+            {
+                "countryCode": "NL",
+                "countryName": "Netherlands",
+                "population": "16645000",
+                "capital": "Amsterdam",
+                "continentName": "Europe",
+                "languages": "nl-NL,fy-NL"
+            },
+            {
+                "countryCode": "NO",
+                "countryName": "Norway",
+                "population": "5009150",
+                "capital": "Oslo",
+                "continentName": "Europe",
+                "languages": "no,nb,nn,se,fi"
+            },
+            {
+                "countryCode": "NP",
+                "countryName": "Nepal",
+                "population": "28951852",
+                "capital": "Kathmandu",
+                "continentName": "Asia",
+                "languages": "ne,en"
+            },
+            {
+                "countryCode": "NR",
+                "countryName": "Nauru",
+                "population": "10065",
+                "capital": "Yaren",
+                "continentName": "Oceania",
+                "languages": "na,en-NR"
+            },
+            {
+                "countryCode": "NU",
+                "countryName": "Niue",
+                "population": "2166",
+                "capital": "Alofi",
+                "continentName": "Oceania",
+                "languages": "niu,en-NU"
+            },
+            {
+                "countryCode": "NZ",
+                "countryName": "New Zealand",
+                "population": "4252277",
+                "capital": "Wellington",
+                "continentName": "Oceania",
+                "languages": "en-NZ,mi"
+            },
+            {
+                "countryCode": "OM",
+                "countryName": "Oman",
+                "population": "2967717",
+                "capital": "Muscat",
+                "continentName": "Asia",
+                "languages": "ar-OM,en,bal,ur"
+            },
+            {
+                "countryCode": "PA",
+                "countryName": "Panama",
+                "population": "3410676",
+                "capital": "Panama City",
+                "continentName": "North America",
+                "languages": "es-PA,en"
+            },
+            {
+                "countryCode": "PE",
+                "countryName": "Peru",
+                "population": "29907003",
+                "capital": "Lima",
+                "continentName": "South America",
+                "languages": "es-PE,qu,ay"
+            },
+            {
+                "countryCode": "PF",
+                "countryName": "French Polynesia",
+                "population": "270485",
+                "capital": "Papeete",
+                "continentName": "Oceania",
+                "languages": "fr-PF,ty"
+            },
+            {
+                "countryCode": "PG",
+                "countryName": "Papua New Guinea",
+                "population": "6064515",
+                "capital": "Port Moresby",
+                "continentName": "Oceania",
+                "languages": "en-PG,ho,meu,tpi"
+            },
+            {
+                "countryCode": "PH",
+                "countryName": "Philippines",
+                "population": "99900177",
+                "capital": "Manila",
+                "continentName": "Asia",
+                "languages": "tl,en-PH,fil"
+            },
+            {
+                "countryCode": "PK",
+                "countryName": "Pakistan",
+                "population": "184404791",
+                "capital": "Islamabad",
+                "continentName": "Asia",
+                "languages": "ur-PK,en-PK,pa,sd,ps,brh"
+            },
+            {
+                "countryCode": "PL",
+                "countryName": "Poland",
+                "population": "38500000",
+                "capital": "Warsaw",
+                "continentName": "Europe",
+                "languages": "pl"
+            },
+            {
+                "countryCode": "PM",
+                "countryName": "Saint Pierre and Miquelon",
+                "population": "7012",
+                "capital": "Saint-Pierre",
+                "continentName": "North America",
+                "languages": "fr-PM"
+            },
+            {
+                "countryCode": "PN",
+                "countryName": "Pitcairn Islands",
+                "population": "46",
+                "capital": "Adamstown",
+                "continentName": "Oceania",
+                "languages": "en-PN"
+            },
+            {
+                "countryCode": "PR",
+                "countryName": "Puerto Rico",
+                "population": "3916632",
+                "capital": "San Juan",
+                "continentName": "North America",
+                "languages": "en-PR,es-PR"
+            },
+            {
+                "countryCode": "PS",
+                "countryName": "Palestine",
+                "population": "3800000",
+                "capital": "",
+                "continentName": "Asia",
+                "languages": "ar-PS"
+            },
+            {
+                "countryCode": "PT",
+                "countryName": "Portugal",
+                "population": "10676000",
+                "capital": "Lisbon",
+                "continentName": "Europe",
+                "languages": "pt-PT,mwl"
+            },
+            {
+                "countryCode": "PW",
+                "countryName": "Palau",
+                "population": "19907",
+                "capital": "Melekeok",
+                "continentName": "Oceania",
+                "languages": "pau,sov,en-PW,tox,ja,fil,zh"
+            },
+            {
+                "countryCode": "PY",
+                "countryName": "Paraguay",
+                "population": "6375830",
+                "capital": "Asunción",
+                "continentName": "South America",
+                "languages": "es-PY,gn"
+            },
+            {
+                "countryCode": "QA",
+                "countryName": "Qatar",
+                "population": "840926",
+                "capital": "Doha",
+                "continentName": "Asia",
+                "languages": "ar-QA,es"
+            },
+            {
+                "countryCode": "RE",
+                "countryName": "Réunion",
+                "population": "776948",
+                "capital": "Saint-Denis",
+                "continentName": "Africa",
+                "languages": "fr-RE"
+            },
+            {
+                "countryCode": "RO",
+                "countryName": "Romania",
+                "population": "21959278",
+                "capital": "Bucharest",
+                "continentName": "Europe",
+                "languages": "ro,hu,rom"
+            },
+            {
+                "countryCode": "RS",
+                "countryName": "Serbia",
+                "population": "7344847",
+                "capital": "Belgrade",
+                "continentName": "Europe",
+                "languages": "sr,hu,bs,rom"
+            },
+            {
+                "countryCode": "RU",
+                "countryName": "Russia",
+                "population": "140702000",
+                "capital": "Moscow",
+                "continentName": "Europe",
+                "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog"
+            },
+            {
+                "countryCode": "RW",
+                "countryName": "Rwanda",
+                "population": "11055976",
+                "capital": "Kigali",
+                "continentName": "Africa",
+                "languages": "rw,en-RW,fr-RW,sw"
+            },
+            {
+                "countryCode": "SA",
+                "countryName": "Saudi Arabia",
+                "population": "25731776",
+                "capital": "Riyadh",
+                "continentName": "Asia",
+                "languages": "ar-SA"
+            },
+            {
+                "countryCode": "SB",
+                "countryName": "Solomon Islands",
+                "population": "559198",
+                "capital": "Honiara",
+                "continentName": "Oceania",
+                "languages": "en-SB,tpi"
+            },
+            {
+                "countryCode": "SC",
+                "countryName": "Seychelles",
+                "population": "88340",
+                "capital": "Victoria",
+                "continentName": "Africa",
+                "languages": "en-SC,fr-SC"
+            },
+            {
+                "countryCode": "SD",
+                "countryName": "Sudan",
+                "population": "35000000",
+                "capital": "Khartoum",
+                "continentName": "Africa",
+                "languages": "ar-SD,en,fia"
+            },
+            {
+                "countryCode": "SE",
+                "countryName": "Sweden",
+                "population": "9828655",
+                "capital": "Stockholm",
+                "continentName": "Europe",
+                "languages": "sv-SE,se,sma,fi-SE"
+            },
+            {
+                "countryCode": "SG",
+                "countryName": "Singapore",
+                "population": "4701069",
+                "capital": "Singapore",
+                "continentName": "Asia",
+                "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG"
+            },
+            {
+                "countryCode": "SH",
+                "countryName": "Saint Helena",
+                "population": "7460",
+                "capital": "Jamestown",
+                "continentName": "Africa",
+                "languages": "en-SH"
+            },
+            {
+                "countryCode": "SI",
+                "countryName": "Slovenia",
+                "population": "2007000",
+                "capital": "Ljubljana",
+                "continentName": "Europe",
+                "languages": "sl,sh"
+            },
+            {
+                "countryCode": "SJ",
+                "countryName": "Svalbard and Jan Mayen",
+                "population": "2550",
+                "capital": "Longyearbyen",
+                "continentName": "Europe",
+                "languages": "no,ru"
+            },
+            {
+                "countryCode": "SK",
+                "countryName": "Slovakia",
+                "population": "5455000",
+                "capital": "Bratislava",
+                "continentName": "Europe",
+                "languages": "sk,hu"
+            },
+            {
+                "countryCode": "SL",
+                "countryName": "Sierra Leone",
+                "population": "5245695",
+                "capital": "Freetown",
+                "continentName": "Africa",
+                "languages": "en-SL,men,tem"
+            },
+            {
+                "countryCode": "SM",
+                "countryName": "San Marino",
+                "population": "31477",
+                "capital": "San Marino",
+                "continentName": "Europe",
+                "languages": "it-SM"
+            },
+            {
+                "countryCode": "SN",
+                "countryName": "Senegal",
+                "population": "12323252",
+                "capital": "Dakar",
+                "continentName": "Africa",
+                "languages": "fr-SN,wo,fuc,mnk"
+            },
+            {
+                "countryCode": "SO",
+                "countryName": "Somalia",
+                "population": "10112453",
+                "capital": "Mogadishu",
+                "continentName": "Africa",
+                "languages": "so-SO,ar-SO,it,en-SO"
+            },
+            {
+                "countryCode": "SR",
+                "countryName": "Suriname",
+                "population": "492829",
+                "capital": "Paramaribo",
+                "continentName": "South America",
+                "languages": "nl-SR,en,srn,hns,jv"
+            },
+            {
+                "countryCode": "SS",
+                "countryName": "South Sudan",
+                "population": "8260490",
+                "capital": "Juba",
+                "continentName": "Africa",
+                "languages": "en"
+            },
+            {
+                "countryCode": "ST",
+                "countryName": "São Tomé and Príncipe",
+                "population": "175808",
+                "capital": "São Tomé",
+                "continentName": "Africa",
+                "languages": "pt-ST"
+            },
+            {
+                "countryCode": "SV",
+                "countryName": "El Salvador",
+                "population": "6052064",
+                "capital": "San Salvador",
+                "continentName": "North America",
+                "languages": "es-SV"
+            },
+            {
+                "countryCode": "SX",
+                "countryName": "Sint Maarten",
+                "population": "37429",
+                "capital": "Philipsburg",
+                "continentName": "North America",
+                "languages": "nl,en"
+            },
+            {
+                "countryCode": "SY",
+                "countryName": "Syria",
+                "population": "22198110",
+                "capital": "Damascus",
+                "continentName": "Asia",
+                "languages": "ar-SY,ku,hy,arc,fr,en"
+            },
+            {
+                "countryCode": "SZ",
+                "countryName": "Swaziland",
+                "population": "1354051",
+                "capital": "Mbabane",
+                "continentName": "Africa",
+                "languages": "en-SZ,ss-SZ"
+            },
+            {
+                "countryCode": "TC",
+                "countryName": "Turks and Caicos Islands",
+                "population": "20556",
+                "capital": "Cockburn Town",
+                "continentName": "North America",
+                "languages": "en-TC"
+            },
+            {
+                "countryCode": "TD",
+                "countryName": "Chad",
+                "population": "10543464",
+                "capital": "N'Djamena",
+                "continentName": "Africa",
+                "languages": "fr-TD,ar-TD,sre"
+            },
+            {
+                "countryCode": "TF",
+                "countryName": "French Southern Territories",
+                "population": "140",
+                "capital": "Port-aux-Français",
+                "continentName": "Antarctica",
+                "languages": "fr"
+            },
+            {
+                "countryCode": "TG",
+                "countryName": "Togo",
+                "population": "6587239",
+                "capital": "Lomé",
+                "continentName": "Africa",
+                "languages": "fr-TG,ee,hna,kbp,dag,ha"
+            },
+            {
+                "countryCode": "TH",
+                "countryName": "Thailand",
+                "population": "67089500",
+                "capital": "Bangkok",
+                "continentName": "Asia",
+                "languages": "th,en"
+            },
+            {
+                "countryCode": "TJ",
+                "countryName": "Tajikistan",
+                "population": "7487489",
+                "capital": "Dushanbe",
+                "continentName": "Asia",
+                "languages": "tg,ru"
+            },
+            {
+                "countryCode": "TK",
+                "countryName": "Tokelau",
+                "population": "1466",
+                "capital": "",
+                "continentName": "Oceania",
+                "languages": "tkl,en-TK"
+            },
+            {
+                "countryCode": "TL",
+                "countryName": "East Timor",
+                "population": "1154625",
+                "capital": "Dili",
+                "continentName": "Oceania",
+                "languages": "tet,pt-TL,id,en"
+            },
+            {
+                "countryCode": "TM",
+                "countryName": "Turkmenistan",
+                "population": "4940916",
+                "capital": "Ashgabat",
+                "continentName": "Asia",
+                "languages": "tk,ru,uz"
+            },
+            {
+                "countryCode": "TN",
+                "countryName": "Tunisia",
+                "population": "10589025",
+                "capital": "Tunis",
+                "continentName": "Africa",
+                "languages": "ar-TN,fr"
+            },
+            {
+                "countryCode": "TO",
+                "countryName": "Tonga",
+                "population": "122580",
+                "capital": "Nuku'alofa",
+                "continentName": "Oceania",
+                "languages": "to,en-TO"
+            },
+            {
+                "countryCode": "TR",
+                "countryName": "Turkey",
+                "population": "77804122",
+                "capital": "Ankara",
+                "continentName": "Asia",
+                "languages": "tr-TR,ku,diq,az,av"
+            },
+            {
+                "countryCode": "TT",
+                "countryName": "Trinidad and Tobago",
+                "population": "1228691",
+                "capital": "Port of Spain",
+                "continentName": "North America",
+                "languages": "en-TT,hns,fr,es,zh"
+            },
+            {
+                "countryCode": "TV",
+                "countryName": "Tuvalu",
+                "population": "10472",
+                "capital": "Funafuti",
+                "continentName": "Oceania",
+                "languages": "tvl,en,sm,gil"
+            },
+            {
+                "countryCode": "TW",
+                "countryName": "Taiwan",
+                "population": "22894384",
+                "capital": "Taipei",
+                "continentName": "Asia",
+                "languages": "zh-TW,zh,nan,hak"
+            },
+            {
+                "countryCode": "TZ",
+                "countryName": "Tanzania",
+                "population": "41892895",
+                "capital": "Dodoma",
+                "continentName": "Africa",
+                "languages": "sw-TZ,en,ar"
+            },
+            {
+                "countryCode": "UA",
+                "countryName": "Ukraine",
+                "population": "45415596",
+                "capital": "Kiev",
+                "continentName": "Europe",
+                "languages": "uk,ru-UA,rom,pl,hu"
+            },
+            {
+                "countryCode": "UG",
+                "countryName": "Uganda",
+                "population": "33398682",
+                "capital": "Kampala",
+                "continentName": "Africa",
+                "languages": "en-UG,lg,sw,ar"
+            },
+            {
+                "countryCode": "UM",
+                "countryName": "U.S. Minor Outlying Islands",
+                "population": "0",
+                "capital": "",
+                "continentName": "Oceania",
+                "languages": "en-UM"
+            },
+            {
+                "countryCode": "US",
+                "countryName": "United States",
+                "population": "310232863",
+                "capital": "Washington",
+                "continentName": "North America",
+                "languages": "en-US,es-US,haw,fr"
+            },
+            {
+                "countryCode": "UY",
+                "countryName": "Uruguay",
+                "population": "3477000",
+                "capital": "Montevideo",
+                "continentName": "South America",
+                "languages": "es-UY"
+            },
+            {
+                "countryCode": "UZ",
+                "countryName": "Uzbekistan",
+                "population": "27865738",
+                "capital": "Tashkent",
+                "continentName": "Asia",
+                "languages": "uz,ru,tg"
+            },
+            {
+                "countryCode": "VA",
+                "countryName": "Vatican City",
+                "population": "921",
+                "capital": "Vatican City",
+                "continentName": "Europe",
+                "languages": "la,it,fr"
+            },
+            {
+                "countryCode": "VC",
+                "countryName": "Saint Vincent and the Grenadines",
+                "population": "104217",
+                "capital": "Kingstown",
+                "continentName": "North America",
+                "languages": "en-VC,fr"
+            },
+            {
+                "countryCode": "VE",
+                "countryName": "Venezuela",
+                "population": "27223228",
+                "capital": "Caracas",
+                "continentName": "South America",
+                "languages": "es-VE"
+            },
+            {
+                "countryCode": "VG",
+                "countryName": "British Virgin Islands",
+                "population": "21730",
+                "capital": "Road Town",
+                "continentName": "North America",
+                "languages": "en-VG"
+            },
+            {
+                "countryCode": "VI",
+                "countryName": "U.S. Virgin Islands",
+                "population": "108708",
+                "capital": "Charlotte Amalie",
+                "continentName": "North America",
+                "languages": "en-VI"
+            },
+            {
+                "countryCode": "VN",
+                "countryName": "Vietnam",
+                "population": "89571130",
+                "capital": "Hanoi",
+                "continentName": "Asia",
+                "languages": "vi,en,fr,zh,km"
+            },
+            {
+                "countryCode": "VU",
+                "countryName": "Vanuatu",
+                "population": "221552",
+                "capital": "Port Vila",
+                "continentName": "Oceania",
+                "languages": "bi,en-VU,fr-VU"
+            },
+            {
+                "countryCode": "WF",
+                "countryName": "Wallis and Futuna",
+                "population": "16025",
+                "capital": "Mata-Utu",
+                "continentName": "Oceania",
+                "languages": "wls,fud,fr-WF"
+            },
+            {
+                "countryCode": "WS",
+                "countryName": "Samoa",
+                "population": "192001",
+                "capital": "Apia",
+                "continentName": "Oceania",
+                "languages": "sm,en-WS"
+            },
+            {
+                "countryCode": "XK",
+                "countryName": "Kosovo",
+                "population": "1800000",
+                "capital": "Pristina",
+                "continentName": "Europe",
+                "languages": "sq,sr"
+            },
+            {
+                "countryCode": "YE",
+                "countryName": "Yemen",
+                "population": "23495361",
+                "capital": "Sanaa",
+                "continentName": "Asia",
+                "languages": "ar-YE"
+            },
+            {
+                "countryCode": "YT",
+                "countryName": "Mayotte",
+                "population": "159042",
+                "capital": "Mamoudzou",
+                "continentName": "Africa",
+                "languages": "fr-YT"
+            },
+            {
+                "countryCode": "ZA",
+                "countryName": "South Africa",
+                "population": "49000000",
+                "capital": "Pretoria",
+                "continentName": "Africa",
+                "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr"
+            },
+            {
+                "countryCode": "ZM",
+                "countryName": "Zambia",
+                "population": "13460305",
+                "capital": "Lusaka",
+                "continentName": "Africa",
+                "languages": "en-ZM,bem,loz,lun,lue,ny,toi"
+            },
+            {
+                "countryCode": "ZW",
+                "countryName": "Zimbabwe",
+                "population": "13061000",
+                "capital": "Harare",
+                "continentName": "Africa",
+                "languages": "en-ZW,sn,nr,nd"
+            }
+        ]
+    }
+}
